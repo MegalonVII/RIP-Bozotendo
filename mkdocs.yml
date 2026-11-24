@@ -1,0 +1,54 @@
+site_name: RIP Bozotendo
+site_description: Console guides, notes, and assorted modding knowledge.
+site_url: https://megalonvii.github.io/RIP-Bozotendo/
+repo_url: https://github.com/MegalonVII/RIP-Bozotendo
+repo_name: MegalonVII/RIP-Bozotendo
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - 3DS: 3ds/index.md
+  - Steam Deck: steam-deck/index.md
+  - Wii: wii/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css

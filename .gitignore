@@ -2,4 +2,4 @@ site/
 .venv/
 __pycache__/
 .DS_Store
-RIP-Bozotendo-Editing-Guide.md
+.cache/

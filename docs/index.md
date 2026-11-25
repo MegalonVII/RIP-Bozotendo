@@ -1,18 +1,7 @@
 <article>
 <div><h1 id="rip-bozotendo">RIP Bozotendo</h1>
 <p><strong><em>Welcome!</em></strong> This is the "Base" for all information I know of about modded consoles I own. I am leaving this repository for everyone in our Discord server to look to in case I am not readily available to assist. Ping me if necessary, however, but more likely than not whatever questions you may have can be answered here.</p>
-<h2 id="3ds">3DS</h2>
-<div class="admonition info">
-<p><strong>EVERYTHING CAN BE FOUND <a href="3ds/">HERE</a></strong>!!!</p>
-</div>
-<h2 id="steam-deck">Steam Deck</h2>
-<div class="admonition info">
-<p><strong>EVERYTHING CAN BE FOUND <a href="steam-deck/">HERE</a></strong>!!!</p>
-</div>
-<h2 id="wii">Wii</h2>
-<div class="admonition info">
-<p><strong>EVERYTHING CAN BE FOUND <a href="wii/">HERE</a></strong>!!!</p>
-</div>
+<p>For site navigation, use the links in the sidebar on the left. If you have something specific you'd like to search, you may use the search at the top right.</p>
 <h2 id="fly-shit-onlytm">Fly Shit Only™</h2>
 <div class="admonition info">
 <p class="admonition-title">Disclaimer</p>
@@ -21,63 +10,63 @@
 <div class="admonition note">
 <p class="admonition-title">The Start</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/KJkRhWq_WaQm.png" title="The Start"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/the-start.png" title="The Start"/></p>
 <div class="admonition note">
 <p class="admonition-title">First Person To Mod Their 3DS</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/GAN8z3l_WaQm.png" title="First Person To Mod Their 3DS"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/first-person-to-mod-their-3ds.png" title="First Person To Mod Their 3DS"/></p>
 <div class="admonition note">
 <p class="admonition-title">First Instance Of Criminality</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/t8F0CDH_WaQm.png" title="First Instance Of Criminality"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/first-instance-of-criminality.png" title="First Instance Of Criminality"/></p>
 <div class="admonition note">
 <p class="admonition-title">"Holy Womebrew"</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/JLYulNG_WaQm.png" title="'Holy Womebrew'"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/holy-womebrew.png" title="'Holy Womebrew'"/></p>
 <div class="admonition note">
 <p class="admonition-title">First Actual Use Of Homebrew</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/OLdYaZm_WaQm.png" title="First Actual Use Of Homebrew"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/first-actual-use-of-homebrew.png" title="First Actual Use Of Homebrew"/></p>
 <div class="admonition note">
 <p class="admonition-title">"Yum" "Holy Womebrew Part 2"</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/xxoBBWF_WaQm.png" title="'Yum' 'Holy Womebrew Part 2'"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/yum-holy-womebrew-part-2.png" title="'Yum' 'Holy Womebrew Part 2'"/></p>
 <div class="admonition note">
 <p class="admonition-title">"Peak???????"</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/detkOdU_WaQm.png" title="'Peak??????'"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/peak.png" title="'Peak??????'"/></p>
 <div class="admonition note">
 <p class="admonition-title">Virginity Themed Power Trip</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/mBugcTW_WaQm.png" title="Virginity Themed Power Trip"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/virginity-themed-power-trip.png" title="Virginity Themed Power Trip"/></p>
 <div class="admonition note">
 <p class="admonition-title">I Finally Figured Out How To Put DS Games On My Home Menu</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/veLC6Li_WaQm.png" title="I Finally Figured Out How To Put DS Games On My Home Menu"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/i-finally-figured-out-how-to-put-ds-games-on-my-home-menu.png" title="I Finally Figured Out How To Put DS Games On My Home Menu"/></p>
 <div class="admonition note">
 <p class="admonition-title">Finally Figuring Out What The hShop Is</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/Q6yMOSq_WaQm.png" title="Finally Figuring Out What The hShop Is"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/finally-figuring-out-what-the-hshop-is.png" title="Finally Figuring Out What The hShop Is"/></p>
 <div class="admonition note">
 <p class="admonition-title">Birth Of A Legend</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/Tz5FiJw_WaQm.png" title="Birth Of A Legend"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/birth-of-a-legend.png" title="Birth Of A Legend"/></p>
 <div class="admonition note">
 <p class="admonition-title">Second Actual Use Of Homebrew</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/C5XaxkV_WaQm.png" title="Second Actual Use Of Homebrew"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/second-actual-use-of-homebrew.png" title="Second Actual Use Of Homebrew"/></p>
 <div class="admonition note">
 <p class="admonition-title">Orchestrina</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/qXPrP7N_WaQm.png" title="Orchestrina"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/orchestrina.png" title="Orchestrina"/></p>
 <div class="admonition note">
 <p class="admonition-title">"You Have Uno It Came Free With Your Fucking Modded 3DS"</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/Bi33O4V_WaQm.png" title="'You Have Uno It Came Free With Your Fucking Modded 3DS'"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/you-have-uno-it-came-free-with-your-fucking-modded-3ds.png" title="'You Have Uno It Came Free With Your Fucking Modded 3DS'"/></p>
 <div class="admonition note">
 <p class="admonition-title">Losing My Mind</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/Im4kx8N_WaQm.png" title="Losting My Mind"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/losting-my-mind.png" title="Losting My Mind"/></p>
 <div class="admonition note">
 <p class="admonition-title">A Showcase</p>
 </div>
@@ -85,46 +74,46 @@
 <div class="admonition note">
 <p class="admonition-title">Captain Falcon And Ness</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/DJYEzMJ_WaQm.png" title="Captain Falcon And Ness"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/captain-falcon-and-ness.png" title="Captain Falcon And Ness"/></p>
 <div class="admonition note">
 <p class="admonition-title">Becoming A Streamer</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/ngVIxMg_WaQm.png" title="Becoming A Streamer"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/becoming-a-streamer.png" title="Becoming A Streamer"/></p>
 <div class="admonition note">
 <p class="admonition-title">Of Course It Can</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/tGukxez_WaQm.png" title="Of Course It Can"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/of-course-it-can.png" title="Of Course It Can"/></p>
 <div class="admonition note">
 <p class="admonition-title">Crossdimensional Link Protocol (CLP-01)</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/koQkyYi_WaQm.png" title="Crossdimensional Link Protocol �klzzwxh:0020�CLP-01�klzzwxh:0021�"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/crossdimensional-link-protocol-clp-01.png" title="Crossdimensional Link Protocol (CLP-01)"/></p>
 <div class="admonition note">
 <p class="admonition-title">Colonoscopy</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/5wt1AK3_WaQm.png" title="Colonoscopy"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/colonoscopy.png" title="Colonoscopy"/></p>
 <div class="admonition note">
 <p class="admonition-title">Rip Bozony</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/6YRbUGT_WaQm.png" title="Rip Bozony"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/rip-bozony.png" title="Rip Bozony"/></p>
 <div class="admonition note">
 <p class="admonition-title">Dual Booting Vita</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/EEEndog_WaQm.png" title="Dual Booting Vita"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/dual-booting-vita.png" title="Dual Booting Vita"/></p>
 <div class="admonition note">
 <p class="admonition-title">"There's Layers To This Shit"</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/VM8HynK_WaQm.png" title="'There's Layers To This Shit'"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/theres-layers-to-this-shit.png" title="'There's Layers To This Shit'"/></p>
 <div class="admonition note">
 <p class="admonition-title">Will Sony Ever Do The Right Thing?</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/gs8VTtE_WaQm.png" title="Will Sony Ever Do The Right Thing?"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/will-sony-ever-do-the-right-thing.png" title="Will Sony Ever Do The Right Thing?"/></p>
 <div class="admonition note">
 <p class="admonition-title">The Wiizza</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/unmFnpl_WaQm.png" title="The Wiizza"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/the-wiizza.png" title="The Wiizza"/></p>
 <div class="admonition note">
 <p class="admonition-title">Don't Try This At Home</p>
 </div>
-<p><img alt="Alt Tag" src="assets/gallery/vGIbTKW_WaQm.png" title="Don't Try This At Home"/></p>
+<p><img alt="Alt Tag" src="assets/gallery/dont-try-this-at-home.png" title="Don't Try This At Home"/></p>
 <p><a href="./">Back to Top</a></p></div>
 </article>

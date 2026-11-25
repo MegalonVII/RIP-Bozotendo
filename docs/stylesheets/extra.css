@@ -16,3 +16,4 @@
 .md-typeset a { text-underline-offset: .18em; }
 .md-typeset .codehilite, .md-typeset .highlight { border-radius: .65rem; overflow: auto; }
 @media (min-width: 76.25em) { .md-sidebar--primary { width: 13rem; } }
+.md-header__source { display: none; }

@@ -1,9 +1,6 @@
 site_name: RIP Bozotendo
 site_description: Console guides, notes, and assorted modding knowledge.
 site_url: https://megalonvii.github.io/RIP-Bozotendo/
-repo_url: https://github.com/MegalonVII/RIP-Bozotendo
-repo_name: MegalonVII/RIP-Bozotendo
-edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
@@ -21,6 +18,7 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.indexes
+    - toc.integrate
     - search.highlight
     - search.share
     - content.code.copy

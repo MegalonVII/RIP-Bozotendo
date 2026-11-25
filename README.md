@@ -1,18 +1,5 @@
 # RIP Bozotendo
 
-A documentation site for the console guides and notes originally hosted on Rentry.
+A documentation site for the console guides and notes for the modded consoles I own. This used to be hosted on Rentry, but I moved away to GitHub pages for less restrictions on the way the sites can be formatted.
 
-## Local preview
-
-```bash
-pip install -r requirements.txt
-zensical serve
-```
-
-## Build
-
-```bash
-zensical build --clean --strict
-```
-
-The source content is preserved from the supplied Rentry HTML exports. Internal links between the four pages have been updated for this site; original external references are retained.
+# Available at [GitHub Pages deployment](https://megalonvii.github.io/RIP-Bozotendo/)

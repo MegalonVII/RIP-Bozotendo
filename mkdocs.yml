@@ -12,11 +12,12 @@ theme:
   name: material
   variant: classic
   language: en
+  logo: assets/cloud think.png
+  favicon: assets/cloud think.png
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.top
-    - navigation.footer
     - navigation.indexes
     - toc.integrate
     - search.highlight
@@ -46,8 +47,14 @@ markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - sane_lists
+  - pymdownx.highlight
+  - pymdownx.superfences
   - toc:
       permalink: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  generator: false

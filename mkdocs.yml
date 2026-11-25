@@ -13,6 +13,8 @@ nav:
 
 theme:
   name: material
+  variant: classic
+  language: en
   features:
     - navigation.instant
     - navigation.tracking
@@ -40,8 +42,7 @@ theme:
     code: JetBrains Mono
 
 plugins:
-  - search:
-      lang: en
+  - search
 
 markdown_extensions:
   - admonition

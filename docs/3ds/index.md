@@ -616,12 +616,7 @@ Just use a VC inject.
 6. Take out its SD card and insert it into your computer.
 7. In a file explorer of your choice, navigate to the `/roms/` folder.
 8. If a `gba` folder doesn't exist in it, create one.
-9. Drag and drop any GBA ROMs you'd like into this `gba` folder.
-
-!!! info "Regarding ROMs"
-
-    In our lovely Discord server, I have made it so our fantastic bot can give you access to a library of ROMs for various systems. For our case, whenever the bot is online please type "!w emulation gba" (without the quotes) in one of the command's permitted channels for a library of GBA ROMs.
-
+9. Drag and drop any GBA ROMs you'd like into this `gba` folder. You can find those over [here](https://vimm.net/vault/GBA).
 10. Take your SD card out of your PC.
 
 !!! warning ""
@@ -677,12 +672,7 @@ Just use a VC inject.
 6. Take out its SD card and insert it into your computer.
 7. In a file explorer of your choice, navigate to the `/roms/` folder.
 8. If a `snes` folder doesn't exist in it, create one.
-9. Drag and drop any SNES ROMs you'd like into this `snes` folder.
-
-!!! info "Regarding ROMs"
-
-    In our lovely Discord server, I have made it so our fantastic bot can give you access to a library of ROMs for various systems. For our case, whenever the bot is online please type "!w emulation snes" (without the quotes) in one of the command's permitted channels for a library of SNES ROMs.
-
+9. Drag and drop any SNES ROMs you'd like into this `snes` folder. You can find those over [here](https://vimm.net/vault/SNES).
 10. Take your SD card out of your PC.
 
 !!! warning ""
@@ -750,36 +740,31 @@ Just use a VC inject.
 31. Take out its SD card and insert it into your computer.
 32. In a file explorer of your choice, navigate to the `/roms/` folder.
 33. If a `psx` folder doesn't exist in it, create one.
-34. Drag and drop any PS1 ROMs you'd like into this `psx` folder.
-
-!!! info "Regarding ROMs"
-
-    In our lovely Discord server, I have made it so our fantastic bot can give you access to a library of ROMs for various systems. For our case, whenever the bot is online please type "!w emulation ps1" (without the quotes) in one of the command's permitted channels for a library of PS1 ROMs. Additionally, the bot also gives instructions on how to properly compress your PS1 ROMs, so give that a shot as well.
-
-34. Take your SD card out of your PC.
+34. Drag and drop any PS1 ROMs you'd like into this `psx` folder. You can find those over [here](https://vimm.net/vault/PS1).
+35. Take your SD card out of your PC.
 
 !!! warning ""
 
     Make sure you do it safely by manually clicking eject on the file explorer, as we do not want to risk corrupting your game file!
 
-35. Insert your SD card back into your 3DS.
-36. Turn your 3DS back on.
-37. Open PCSX_ReARMed.
-38. Select "Load Content" and navigate to your PS1 ROM.
-39. When finished playing, tap the bottom screen and navigate to close content. Then, close out of the application.
+36. Insert your SD card back into your 3DS.
+37. Turn your 3DS back on.
+38. Open PCSX_ReARMed.
+39. Select "Load Content" and navigate to your PS1 ROM.
+40. When finished playing, tap the bottom screen and navigate to close content. Then, close out of the application.
 
 !!! info "Regarding Saves"
 
     If you do not have any save files you would like to import, stop reading here. Otherwise, continue.
 
-40. Take out its SD card and insert it into your computer.
-41. Drop any of your saves for your games in `/retroarch/cores/savefiles/`. Make sure your save file has the same name as your ROM. For example, "Crash Bandicoot.chd" in `/roms/psx/` is tied to "Crash Bandicoot.srm" in `/retroarch/cores/savefiles/`.
-42. Take your SD card out of your PC.
-43. Insert your SD card back into your 3DS.
-44. Turn your 3DS back on.
-45. Open PCSX_ReARMed.
-46. Navigate to `/roms/psx/`.
-47. Select the ROM of the game you'd like to play. Your save should now be imported properly.
+41. Take out its SD card and insert it into your computer.
+42. Drop any of your saves for your games in `/retroarch/cores/savefiles/`. Make sure your save file has the same name as your ROM. For example, "Crash Bandicoot.chd" in `/roms/psx/` is tied to "Crash Bandicoot.srm" in `/retroarch/cores/savefiles/`.
+43. Take your SD card out of your PC.
+44. Insert your SD card back into your 3DS.
+45. Turn your 3DS back on.
+46. Open PCSX_ReARMed.
+47. Navigate to `/roms/psx/`.
+48. Select the ROM of the game you'd like to play. Your save should now be imported properly.
 
 #### Nintendo 64
 
@@ -1270,12 +1255,7 @@ You can have it so that whenever you enter the Home Menu of your 3DS, a differen
 15. Open The Homebrew Launcher.
 16. Navigate to Azahar Artic Setup Tool and select it.
 17. Press A and wait for a few seconds. The top screen will now display an IP address with a port next to it. (Format: [XXX.XXX.XXX.XXX](http://xxx.xxx.xxx.xxx/):PORT).
-18. Open the Azahar application binary. Set it up as you'd like.
-
-!!! info "Regarding Emulators"
-
-    in our lovely Discord server, I have made it so our fantastic bot can give you a detailed tutorial on how to set up a multitude of emulators. For our case, whenever the bot is online please type "!w emulation 3ds" (without the quotes) in one of the command's permitted channels for information on how to set up the preferred 3DS emulator on a computer.
-
+18. Open the Azahar application binary. Set it up as you'd like. If you need help with that feel free to ask me in our Discord server.
 19. Click on "File > Set Up System Files..."
 20. Enter in that IP address you see on your top screen.
 21. Press "OK". Give it a minute, as Azahar is transferring information from your console to your PC over the internet.

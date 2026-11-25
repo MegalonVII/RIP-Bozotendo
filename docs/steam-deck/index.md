@@ -445,7 +445,7 @@ Now, you can access Discord calls and content and participate directly from your
 
 !!! info "Regarding ROMs And BIOS"
 
-    In our lovely Discord server, I have made it so our fantastic bot can give you access to a library of ROMs and BIOS for various systems. For our case, whenever the bot is online please type "!w emulation" (without the quotes) in one of the command's permitted channels for a library of these files. Do note that it does not have everything listed here.
+    Generally speaking, Vimm's Lair is a great resource for finding ROMs. If you need help finding a specific ROM, feel free to ask me in our Discord server.
 
 34. Once you've configured all your necessary files, close out of the file explorer.
 35. Press "Close" and then "Next" on the EmuDeck application interface.

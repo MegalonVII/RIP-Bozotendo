@@ -107,7 +107,7 @@ This website will continuously stay up to date with the latest information on ho
 9. Take out the SD card.
 10. Insert your Wii's SD card into your computer. If you're on Windows, take note of the drive letter that your SD card is assigned (ie. D:)
 11. On the root of your Wii's SD card, make folders called `wbfs` and `games` if they doesn't exist already. We will be using these for registering all our games with the Wii, with the respective folders belonging to Wii and GameCube games.
-12. In our lovely Discord server, I have made it so our fantastic bot can give you access to a library of ROMs that work with the Wii. For our case, whenever the bot is online please type "!w emulation wii" or "!w emulation gamecube" for a library of these files. Note that you're going to have to try to see if your ROM of choice is in a specific set and if not choose another.
+12. Look for a Wii or GameCube ROM you want. You can find Wii ROMs [here](https://vimm.net/vault/Wii) and GameCube ROMs [here](https://vimm.net/vault/GameCube).
 13. Download your `.rvz` file of choice from a set.
 14. Download, extract, and open [TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager/releases/latest) on your computer. For MacOS, after downloading the file and running the `.dmg` installer, in a Terminal window type `xattr -rd com.apple.quarantine /Applications/TinyWiiBackupManager.app` to disable MacOS' notarization check on the app since it is not notarized by Apple yet.
 15. Click on the button at the bottom left that looks like a hard drive.
@@ -327,18 +327,12 @@ Would you like to not have to constantly open USB Loader GX to play your Wii gam
 
     Press Enter. Wait for this to finish, and when it's done close out of Command Prompt/Terminal. You may now delete the dumped files from your PC as well, as we no longer need them. (ie. `RHOE8P.part0.iso` and `RHOE8P.part1.iso`).
 
-22. In our lovely Discord server, there are instructions tied to our Discord bot about how to set up the Dolphin emulator. All you need to do is follow the instructions to bot gives you when entering the command "!w emulation wii". Just ensure that the path you mention in step 5 of *that* instruction set is the same path where your `game.iso` is located.
-
+22. You will need to set up the Dolphin emulator to play your Wii games. You can find instructions on how to do this [here](https://dolphin-emu.org/docs/guides/wii-gamecube-emulation/).
 23. In the Dolphin UI, right click your game. In the dropdown menu left click on `Convert File...`.
-
 24. In the first dropdown, choose "RVZ" as the Format.
-
 25. Click on Convert.
-
 26. A file explorer window will show up. Save the new `.rvz` file to the same place as your `game.iso`, then click on Save.
-
 27. Once the conversion is finished, click OK. If you'd like, you can open a file explorer window to delete the `game.iso` file where it is located, as we no longer need it.
-
 28. In the Dolphin UI, click "Refresh". Your `.rvz` format ROM should be visible in Dolphin!
 
 !!! note "Are You Done?"
@@ -380,7 +374,7 @@ Would you like to not have to constantly open USB Loader GX to play your Wii gam
     Since we will be transferring between a GameCube Memory Card to Dolphin Emulator, save files will not persist as game save data was stored on the Wii's NAND and NOT on the game disc itself. If you have relevant save data, please be sure to follow [these steps](../wii/#managing-gamecube-saves-backing-up) to back up your saves! Additionally, step 28 onward is meant for importing this save to Dolphin emulator!
 
 20. Your dump should be on the root of your SD card as 1 `.iso` file. Select this file and drag it to somewhere on your PC. Once this is done, you may delete the dumped file from your SD card as we will no longer need it.
-21. In our lovely Discord server, there are instructions tied to our Discord bot about how to set up the Dolphin emulator. All you need to do is follow the instructions to bot gives you when entering the command "!w emulation gamecube". Just ensure that the path you mention in step 5 of *that* instruction set is the same path where your `.iso` is located.
+21. You will need to set up the Dolphin emulator to play your GameCube games. You can find instructions on how to do this [here](https://dolphin-emu.org/docs/guides/wii-gamecube-emulation/).
 22. In the Dolphin UI, right click your game. In the dropdown menu left click on `Convert File...`.
 23. In the first dropdown, choose "RVZ" as the Format.
 24. Click on Convert.

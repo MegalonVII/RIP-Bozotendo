@@ -175,7 +175,7 @@ This plugin lets you customize what tabs in your library you will see in the Lib
 
 There should now be a tab in the settings called "Developer", where the first option is "Install Plugin from ZIP File". This is how you will be installing these plugins. The first time you select the "Browse..." button there will be a 5 second cooldown on a warning that these plugins would be "use at your own risk" before moving forward, but after those initial 5 seconds that popup just becomes a warning from then on out. All plugins below will assume that from the GitHub links for them, you downloaded these plugins and "Browse"d to install them.
 
-#### Decky MultiFramegen (WIP)
+#### Decky MultiFramegen
 
 If you are playing a heavy AAA game (for example, *Clair Obscur: Expedition 33*), you'll quickly notice that the Steam Deck may in fact be underpowered to handle the game at a usable frame rate while still looking good. Upscaling technology has been around for a while now as a tool PC gamers use to squeeze more performance out of their hardware. The way it usually works is by having the game render at a lower resolution (say, 480p), while an upscaling algorithm reconstructs the image at a higher resolution (for the Deck, it's 800p). This can usually increase your frame rates in-game without sacrificing too much visual quality.
 
@@ -191,7 +191,7 @@ Additionally, you may notice that even with better upscaling, the game may still
 
     This plugin has an extensively documented use of how Claude and other AI agents are used during the development of this plugin. However, the person behind the plugin is also a seasoned developer with extensive credentials and coding knowledge that exceeds mine. As such, I would refrain from calling this plugin "vibe coded", but I think it is also fair to disclose that AI was used in the development of this plugin.
 
-***WIP***
+Once you've installed this plugin, I recommend installing every option you see as a backend. From there, you can play around with configurations that you like per game. My general recommendation is using "HelixSR + MAKO". The former injects DLSS 3.7 into your game, which is generally seen as better than FSR 4 that AMD provides. MAKO is then used to interpolate frames into your game to give an appearance of higher FPS. With MAKO, I recommend that you turn on Adaptive Frame Generation and then set the Target FPS to your Deck's refresh rate –– 60 FPS on the LCD model and 90 FPS on the OLED model. This way, I like to think of it as a sort of "set and forget" type deal so you don't have to continuously fiddle around with how much of an FPS multiplier you want.
 
 #### Game Theme Music
 
@@ -218,9 +218,9 @@ Do you remember how on the Wii, when you selected a channel from its UI it would
 6. If you've found an audio you like, navigate to Download and select it. This can take a few short seconds to a few minutes, depending on how long the video is and how fast your internet speeds are.
 7. Press B to go back to the game's launch page. You should now be able to hear the song you downloaded!
 
-#### AnyAspectRatio (WIP)
+#### AnyAspectRatio
 
-***WIP***
+The Deck's screen's aspect ratio is 16:10, when usually games these days try fitting themselves onto a 16:9 aspect ratio of modern displays. Some games already have implementations for differing aspect ratios, but most games that don't will have black bars going along the top and bottom of the screen when playing the game. This plugin allows you to then patch any game that's supported under this plugin to make the resolution fit to your Deck's screen. More immersive! All you really have to do is just click "Patch" for the game you're playing in the plugin's options in Decky!
 
 ## Vesktop (Discord)
 
